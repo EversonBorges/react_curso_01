@@ -1,3 +1,7 @@
+.conteudo-principal{
+  flex-grow: 3;
+}
+
 .conteudo {
   display: flex;
 }
